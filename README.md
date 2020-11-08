@@ -32,6 +32,8 @@ https://www.freebuf.com/articles/network/201940.html.
 <br />
 
 ## APT翻译
+CSDN、微信公众号
+
 
 
 <br />
